@@ -151,6 +151,7 @@ Business insight generation from sales data
 
 Janani D
 Data Analyst | Aspiring Data Scientist
+
 Skills: Power BI, Excel, Python, SQL, Data Visualization
 
 ⭐ Acknowledgement
